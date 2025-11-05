@@ -5,8 +5,8 @@ namespace Yaza\LaravelGoogleDriveStorage;
 use File;
 use Illuminate\Support\Facades\Storage;
 use Yaza\LaravelGoogleDriveStorage\interfaces\GdriveInterface;
-use Yaza\LaravelGoogleDriveStorage\Helpers\GdriveFile;
-use Yaza\LaravelGoogleDriveStorage\Helpers\GdriveFileInfo;
+use Yaza\LaravelGoogleDriveStorage\typings\GdriveFile;
+use Yaza\LaravelGoogleDriveStorage\typings\GdriveFileInfo;
 use \League\Flysystem\DirectoryListing;
 use \League\Flysystem\StorageAttributes;
 

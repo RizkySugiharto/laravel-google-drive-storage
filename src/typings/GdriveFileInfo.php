@@ -1,6 +1,6 @@
 <?php
 
-namespace Yaza\LaravelGoogleDriveStorage\Helpers;
+namespace Yaza\LaravelGoogleDriveStorage\typings;
 
 class GdriveFileInfo
 {
